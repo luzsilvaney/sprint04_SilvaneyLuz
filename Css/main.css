@@ -1,0 +1,10 @@
+main {
+    flex-grow: 1;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+main .imagemPrincipal img {
+    max-width: 100%;
+    height: auto;
+}
