@@ -8,8 +8,9 @@ header {
 }
 
 header img {
-    height: 50px;
+    height: 100px;
 }
+
 
 header nav ul {
     list-style: none;
